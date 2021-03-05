@@ -1,4 +1,4 @@
-# Automation Projec for JS Academy
+# Automation Project for JS Academy
 
  ## Test Automation Project - Web
  
