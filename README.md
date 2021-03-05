@@ -6,7 +6,7 @@ Test automation project with the base structure and dependencies to automate ui 
  
  ## Initial set up
  
-In order to have this project working as expected is to install node.js, this project was built using node version 14.16.o therefore to guarantee a correct functionality is better to install that version or above. With node.js will come npm, therefore is good to have the versions below
+In order to have this project working as expected is to install node.js, this project was built using node version 14.16.0 therefore to guarantee a correct functionality is better to install that version or above. With node.js will come npm, therefore is good to have the versions below
 
  - node version >= 14.16.0
  - npm version  >= 6.14.11
